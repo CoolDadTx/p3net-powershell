@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>P3Net.Utility</id>
+    <version>1.0.0</version>
+    <authors>Michael Taylor</authors>
+    <owners>P3Net</owners>    
+    <projectUrl>http://www.michaeltaylorp3.net</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides helpful commands.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>powershell</tags>    
+  </metadata>
+  <files>
+      <file src="*.psd1" target="" />
+      <file src="**\*.psm1" target="" />
+  </files>
+</package>
